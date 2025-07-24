@@ -1,6 +1,5 @@
 
 # Quick-start environment setup for WSL.
-=======
 
 # 🛠️ breasor/dotfiles
 
