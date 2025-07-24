@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 # DevSecOps Bootstrap
 
 Quick-start DevSecOps environment setup for WSL.
 =======
+=======
+>>>>>>> 638eed7 (README fixes)
 # 🛠️ breasor/dotfiles
 
 Cross-platform terminal and environment setup for DevSecOps, PowerShell, WSL, and automation-heavy workflows.
