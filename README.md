@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DevSecOps Bootstrap
 
 Quick-start DevSecOps environment setup for WSL.
@@ -27,4 +26,3 @@ Cross-platform terminal and environment setup for DevSecOps, PowerShell, WSL, an
 git clone git@github.com-personal:breasor/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ./install.sh
->>>>>>> 6cfc848 (Update README with install steps)
