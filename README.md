@@ -1,6 +1,5 @@
-# DevSecOps Bootstrap
 
-Quick-start DevSecOps environment setup for WSL.
+# Quick-start environment setup for WSL.
 =======
 
 # 🛠️ breasor/dotfiles
